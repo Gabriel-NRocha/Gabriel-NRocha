@@ -6,40 +6,35 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-NRocha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-NRocha&layout=compact&langs_count=7&theme=tokyonight" />
   </a>
+
 </div>
-<div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Yaslim-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Yaslim-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Yaslim-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Yaslim-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Yaslim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Yaslim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Yaslim-Tailwind" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="Yaslim-Node" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Yaslim-Nest" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img align="center" alt="Yaslim-Next" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />   
-  
+<div align="center" style="display: flex; flex-wrap: nowrap; justify-content: center; gap: 10px; align-items: center;"><br>
+  <img alt="Gabriel-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Yaslim-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Yaslim-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="AWS" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+  <img alt="Gabriel-Docker" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg">
 </div>
-    
- ##
-    
+
+##
+
 <div align="center" style="display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center;">
 <br>
-  <a href = "mailto:yaslimsoares15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yaslim-soares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-
-  </a> 
-  
-##
- 
+  <a href="mailto:gabrieelnoronhaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabriel-noronha-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+##
 
 <div>
 
-  - 🔭 I’m currently working on **[Luby Software](https://luby.com.br/)** and **[Good Software Dev](https://goodsoftwaredev.com/)**
+- 🔭 I’m currently working on JS Projects
 
-  - 🌱 I’m currently learning **Microservices and Docker**
+- 🌱 I’m currently learning **AWS and Docker**
 
-  - 💬 Ask me about **React, NodeJS, Typescript**
+- 💬 Ask me about **React, NodeJS, JavaScript**
 
 </div>
+
